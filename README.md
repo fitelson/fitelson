@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fitelson
-- 👀 I’m interested in computational methods in logic and probability theory.
-- 🌱 I’m currently wokring on theorem proving and decision procedures.
+- 👀 I’m interested in applying computational methods to mathematical, scientific, logical, and philosophical problems.
+- 🌱 I’m currently working on using LLMs to improve various parts of mathematical philosophy.
 
 <!---
 fitelson/fitelson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
